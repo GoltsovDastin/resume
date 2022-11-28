@@ -21,4 +21,4 @@
 *   scss
 
 ## 🧑‍💼 Мои работы
-a(href="https://stroyka-stor.progeritdastin.ru/#") Главная страница сайта 
+<a>(href="https://stroyka-stor.progeritdastin.ru/#") Главная страница сайта </a>
