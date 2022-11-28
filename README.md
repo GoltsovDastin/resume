@@ -21,5 +21,5 @@
 *   scss
 
 ## 🧑‍💼 Мои работы
-* <a href="https://stroyka-stor.progeritdastin.ru/#"> Stroyka Store </a>
-* <a href="http://cw57343-wordpress-aunmj.tw1.ru/"> Stroyka Store </a>
+* 1.<a href="https://stroyka-stor.progeritdastin.ru/#"> Stroyka Store </a>
+* 2.<a href="http://cw57343-wordpress-aunmj.tw1.ru/"> Pirosmany </a>
