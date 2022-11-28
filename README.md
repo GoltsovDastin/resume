@@ -22,4 +22,4 @@
 
 ## 🧑‍💼 Мои работы
 * <a href="https://stroyka-stor.progeritdastin.ru/#"> Stroyka Store </a>
-* Важные части страницы:
+* <a href="http://cw57343-wordpress-aunmj.tw1.ru/"> Stroyka Store </a>
