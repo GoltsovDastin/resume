@@ -21,5 +21,5 @@
 *   scss
 
 ## 🧑‍💼 Мои работы
-* <a href="https://stroyka-stor.progeritdastin.ru/#"> Главная страница сайта Stroyka Store </a>
+* <a href="https://stroyka-stor.progeritdastin.ru/#"> Stroyka Store </a>
 * Важные части страницы:
