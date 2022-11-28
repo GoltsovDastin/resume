@@ -10,3 +10,14 @@
 <p align='center'>
    📫 Связаться со мной: <a href='mailto:goltsovdas@yandex.ru'>goltsovdas@yandex.ru</a>
 </p>
+
+## 🛠 Стэк технологий 
+*   javascript
+*   css
+*   html
+*   webpack
+*   Начальные знания react
+*     Препроцессоры
+*   pug
+*   scss
+
