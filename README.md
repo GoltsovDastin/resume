@@ -8,5 +8,5 @@
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 Связаться со мной: <a href='goltsovdas@yandex.ru'>goltsovdas@yandex.ru</a>
+   📫 Связаться со мной: <a href='mailto:goltsovdas@yandex.ru'>goltsovdas@yandex.ru</a>
 </p>
