@@ -17,7 +17,6 @@
 *   html
 *   webpack
 *   Начальные знания react
-*     Препроцессоры
 *   pug
 *   scss
 
